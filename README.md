@@ -18,3 +18,4 @@
 ### My Course Solutions
 
 * <https://github.com/ksulrich/android-basics-kotlin-lemonade-app>
+* <https://github.com/ksulrich/android-basics-kotlin-tiptime-app>
