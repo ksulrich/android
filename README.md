@@ -14,6 +14,7 @@
 * Youtube Video: [Android App Development in Java All-in-One Tutorial Series (4 HOURS!)](https://www.youtube.com/watch?v=tZvjSl9dswg)
 * [Google Developers Codelabs](https://codelabs.developers.google.com/?cat=android)
 * [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+* [Google Developer Training](https://github.com/google-developer-training)
 
 ### My Course Solutions
 
